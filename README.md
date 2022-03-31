@@ -1,8 +1,8 @@
 ## Hi there，I'm renhuan 👋
 
-|       邮箱       |                             掘金                             |                 github                 |
-| :--------------: | :----------------------------------------------------------: | :------------------------------------: |
-| 996513028@qq.com | [点击直达](https://juejin.im/user/3474112476353069/posts) | [点击直达](https://github.com/renhuan) |
+|       邮箱       |                             掘金                             |                 github                 |     gitee |
+| :--------------: | :----------------------------------------------------------: | :------------------------------------: |:------------------------------------: |
+| 996513028@qq.com | [点击直达](https://juejin.im/user/3474112476353069/posts) | [点击直达](https://github.com/renhuan) | [点击直达](https://gitee.com/renhuan)|
 
 ## Github State
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renhuan&show_icons=true)](https://github.com/renhuan)
